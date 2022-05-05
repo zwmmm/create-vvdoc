@@ -1,0 +1,13 @@
+{
+  "name": "vvDoc-demo",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "vvdoc init",
+    "dev": "vvdoc dev",
+    "build": "vvdoc build"
+  },
+  "dependencies": {
+    "vvdoc": "^1.1.2"
+  }
+}
