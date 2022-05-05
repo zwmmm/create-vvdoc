@@ -1,0 +1,17 @@
+{
+  "name": "create-vvdoc",
+  "version": "1.0.0",
+  "bin": {
+    "create-vvdoc": "index.js"
+  },
+  "repository": "git@github.com:zwmmm/create-vvdoc.git",
+  "author": "wayne <wei.zheng02@weimob.com>",
+  "license": "MIT",
+  "dependencies": {
+    "consola": "^2.15.3",
+    "fs-extra": "^10.1.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
