@@ -5,7 +5,7 @@ const consola = require('consola')
 
 fs.copySync(
   path.resolve(__dirname, 'template'),
-  proccess.cwd(),
+  process.cwd(),
   { overwrite: true }
 )
 
