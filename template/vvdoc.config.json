@@ -1,5 +1,13 @@
 {
-  "title": "vvDoc",
+  "title": "vvModal",
   "logo": "",
-  "repository": "https://github.com/zwmmm/vvDoc"
+  "repository": "https://github.com/zwmmm/vvModal",
+  "menus": [
+    {
+      "text": "首页",
+      "active": "^/",
+      "path": "/"
+    },
+  ],
+  "chapters": {}
 }
